@@ -1,0 +1,1 @@
+FROM veyalla/logspout:arm32v6
